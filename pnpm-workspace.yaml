@@ -1,0 +1,2 @@
+allowBuilds:
+  eslint-plugin-id-match@https://codeload.github.com/NightSpaceC/eslint-plugin-id-match/tar.gz/827c390a9799c561ae6a66e107ecfd0ddc29f1d0: true
