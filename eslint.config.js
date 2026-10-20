@@ -102,12 +102,7 @@ export default defineConfig([
           enforceForIndexOf: true,
         },
       ],
-      'valid-typeof': [
-        'error',
-        {
-          requireStringLiterals: true,
-        },
-      ],
+      'valid-typeof': ['error', { requireStringLiterals: true }],
 
       'arrow-body-style': ['error', 'as-needed'],
       'block-scoped-var': 'error',
